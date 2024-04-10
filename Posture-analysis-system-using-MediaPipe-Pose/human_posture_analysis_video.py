@@ -1,3 +1,5 @@
+# Building a Poor Body Posture Detection and Alert System using MediaPipe
+
 import cv2
 import time
 import math as m
